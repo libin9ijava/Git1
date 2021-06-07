@@ -8,6 +8,9 @@ class Git1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+
+		System.out.println("true = " + true);
 	}
 
 }
